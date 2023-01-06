@@ -1,5 +1,5 @@
 # POO-Capacitacion
-Este repositorio contiene los desafios relativos a la capacitación de "Introduccion a POO" impartido por Educacion IT. El mismo consta de tres desafios en total, pero en solo dos (2 y 3) se requeria escritura de código.\
+Este repositorio contiene los desafios relativos a la capacitación de "Introduccion a POO" impartido por Educacion IT. El mismo consta de tres desafios en total, pero en solo dos (2 y 3) se requeria escritura de código.
 
 Tanto el desafio 2 como el 3 trabajan sobre 3 mismos enunciados. En cada desafio se encontrará una carpeta para cada enunciado.
 ## Desafio 2
